@@ -1,0 +1,10 @@
+modulus
+offset
+
+t + offset = 0 (mod m)
+
+t - offset = 0 (mod m)
+
+t = offset (mod m)
+
+m | (t - offset)
